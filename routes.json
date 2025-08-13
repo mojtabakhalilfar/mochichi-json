@@ -1,0 +1,18 @@
+{
+  "/api/*": "/$1",
+  "/:resource/:id/show": "/:resource/:id",
+  "/menu": "/menu",
+  "/articleHome": "/articleHome",
+  "/banner": "/banner",
+  "/discount": "/discount",
+  "/category": "/category",
+  "/categoris": "/categoris",
+  "/mostpopular": "/mostpopular",
+  "/newblog": "/newblog",
+  "/bestchoice": "/bestchoice",
+  "/blogs": "/blogs",
+  "/blog": "/blog",
+  "/product": "/product",
+  "/commentsP": "/commentsP",
+  "/commentsB": "/commentsB"
+}
